@@ -13,7 +13,7 @@
 #define WIFI_PASSWORD "12345678"
 
 
-#define API_KEY "AIzaSyAjb8mJgpmENdYg_IP_uVlhGcr_W0dzxa8"
+#define API_KEY ""
 #define DATABASE_URL "https://new-iot-8c3f9-default-rtdb.firebaseio.com/"
 
 
